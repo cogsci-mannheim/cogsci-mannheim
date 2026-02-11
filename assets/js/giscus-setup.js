@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "cogsci-mannheim/cogsci-mannheim",
+    "data-repo": "cogsci-mannheim/csi",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
