@@ -83,17 +83,6 @@ ninja.data = [{
             window.location.href = "/csi/blog/2026/welcome-to-cogsci-mannheim/";
           
         },
-      },{id: "post-a-post-with-jupyter-notebook",
-        
-          title: "a post with jupyter notebook",
-        
-        description: "an example of a blog post with jupyter notebook",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/csi/blog/2023/jupyter-notebook/";
-          
-        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
