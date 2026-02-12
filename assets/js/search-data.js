@@ -72,18 +72,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/csi/blog/";
               },
-            },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/csi/blog/2026/2026-02-10-meeting1-reps/";
-          
-        },
-      },{id: "post-launching-the-cognitive-science-initiative-at-mannheim",
+            },{id: "post-launching-the-cognitive-science-initiative-at-mannheim",
         
           title: "Launching the Cognitive Science Initiative at Mannheim",
         
