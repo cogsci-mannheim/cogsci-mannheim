@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/csi/blog/";
               },
-            },{id: "post-launching-the-cognitive-science-initiative-at-mannheim",
+            },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/csi/blog/2026/2026-02-10-meeting1-reps/";
+          
+        },
+      },{id: "post-launching-the-cognitive-science-initiative-at-mannheim",
         
           title: "Launching the Cognitive Science Initiative at Mannheim",
         
@@ -81,17 +92,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/csi/blog/2026/welcome-to-cogsci-mannheim/";
-          
-        },
-      },{id: "post-meeting1-reps",
-        
-          title: "Meeting1 Reps",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/csi/blog/2026/meeting1-reps/";
           
         },
       },{id: "books-the-godfather",
