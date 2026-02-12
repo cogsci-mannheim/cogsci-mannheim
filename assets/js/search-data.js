@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/csi/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-launching-the-cognitive-science-initiative-at-mannheim",
+        
+          title: "Launching the Cognitive Science Initiative at Mannheim",
+        
+        description: "A new home for interdisciplinary research in Cognitive Science.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/csi/blog/2026/welcome-to-cogsci-mannheim/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
