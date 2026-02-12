@@ -13,12 +13,12 @@ This week we had our first meetings where we discussed the concept of representa
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html 
            path="assets/img/meeting1-reps.png" 
-           title="Representations take 1" 
+           title="Meeting 1" 
            class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    The University of Mannheim campus, home to our Cognitive Science initiative.
+   Representations take 1
 </div>
 
 
