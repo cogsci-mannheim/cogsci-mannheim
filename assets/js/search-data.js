@@ -46,10 +46,10 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+          description: "information about activities like guest lectures, talks, workshops",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/csi/teaching/";
+            window.location.href = "/csi/activities/";
           },
         },{id: "nav-people",
           title: "people",
