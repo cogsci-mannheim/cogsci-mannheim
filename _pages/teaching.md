@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /activities/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: information about activities like guest lectures, talks, workshops
 nav: true
 nav_order: 6
 calendar: true
