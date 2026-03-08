@@ -11,7 +11,7 @@ This week, we reserved the day for intensive, collaborative work on the proposal
 
 <img src="{{ '/assets/img/meeting4-reps.jpg' | relative_url }}" width="400" alt="Representations Take 4">
 
-<img src="{{ '/assets/img/meeting4a-reps.jpg' | relative_url }}" width="400" alt="Representations Take 4">
+<img src="{{ '/assets/img/meeting4a-reps.jpg' | relative_url }}" width="400" alt="Representations Take 4a">
 
 ---
 *For more information about our mission, visit our [About]({{ '/about/' | relative_url }}) page.*
